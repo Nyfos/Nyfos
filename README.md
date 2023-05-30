@@ -23,16 +23,17 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Nyfos)
 
 ### Technologies & Frameworks
+[![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)](https://github.com/Nyfos)
+[![DiscordJS](https://img.shields.io/badge/DiscordJS-black?style=for-the-badge&logo=discord)](https://github.com/Nyfos)
+[![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)](https://github.com/Nyfos)
 [![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://github.com/Nyfos)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Nyfos)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Nyfos)
 [![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=sass)](https://github.com/Nyfos)
-[![DiscordJS](https://img.shields.io/badge/DiscordJS-black?style=for-the-badge&logo=discord)](https://github.com/Nyfos)
-[![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)](https://github.com/Nyfos)
 
 ### Systèmes d'exploitation
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Nyfos)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Nyfos)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Nyfos)
 
 ### Quelques infos
 🚧 Je travaille actuellement sur Mahoku, un tout nouveau RPG indépendant!
