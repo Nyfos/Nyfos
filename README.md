@@ -1,4 +1,4 @@
-<h1 align="center">Salut! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Salut! 👋></h1>
 
 <p align="center">
     <i>
@@ -63,7 +63,3 @@
   </a>
 </p>
 </details>
-
-<p align="center">
-  <sub>Merci à <a href="https://github.com/wervlad">@wervlad</a> qui a grandement inspiré ce readme!</sub>
-</p>
