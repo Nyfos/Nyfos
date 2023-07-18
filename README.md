@@ -1,4 +1,4 @@
-<h1 align="center">Salut! 👋></h1>
+<h1 align="center">Salut! 👋</h1>
 
 <p align="center">
     <i>
